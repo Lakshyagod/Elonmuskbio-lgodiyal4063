@@ -1,0 +1,64 @@
+
+/* Name=Lakshya Godiyal
+Student_id=Lgodiyal4063
+Student No.=8924063 */
+ 
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+header {
+    background: linear-gradient(to right, #f06, #f80);
+    padding: 1rem;
+}
+
+header h1 {
+    margin: 0;
+    color: #fff;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 1rem;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+section {
+    padding: 1rem;
+}
+
+section h2 {
+    margin-bottom: 1rem;
+}
+
+blockquote {
+    background-color: #f9f9f9;
+    padding: 1rem;
+    margin: 1rem 0;
+}
+
+blockquote p {
+    margin: 0;
+}
+
+blockquote cite {
+    display: block;
+    font-size: 0.8rem;
+    color: #666;
+}
+#media{text-align: center; text-decoration: double;
+
+}
+
+footer { text-align: center;
+    background: linear-gradient( #f80 )}

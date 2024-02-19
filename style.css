@@ -1,0 +1,139 @@
+/* 
+Name=Lakshya Godiyal
+Student_id=Lgodiyal4063
+Student No.=8924063 
+*/
+html {
+    font: normal 20px "Helvetica Neue", sans-serif;
+}
+
+h1, h2 {
+    font-variant: small-caps;
+}
+
+figcaption {
+    font-weight: bold;
+    font-variant: small-caps;
+    font-size: 1.2rem;
+}
+
+q {
+    font-style: italic;
+    font-family: cursive;
+    font-size: 1.2rem;
+}
+
+footer p {
+    font-size: 0.8rem;
+}
+
+body {
+    width: 80%;
+    max-width: 1200px;
+    padding: 2rem;
+    margin: 0 auto;
+}
+
+img.main-section-figure {
+    width: 80%;
+    height: auto;
+}
+
+figure.main-section-figure {
+    width: 80%;
+    height: auto;
+}
+
+iframe, video {
+    width: 80%;
+}
+
+header, footer {
+    text-align: center;
+}
+
+.main-section {
+    text-align: center;
+    padding: 2rem;
+}
+
+#bio blockquote {
+    text-align: left;
+}
+
+img.main-section-figure {
+    padding: 1rem;
+}
+
+figure.main-section-figure {
+    padding: 1rem;
+    margin: 2rem auto;
+}
+
+#quote blockquote {
+    padding: 1em;
+}
+
+iframe, video {
+    padding: 2rem;
+}
+
+header, footer {
+    border: 0.1rem solid #123456;
+}
+
+img.main-section-figure {
+    border-radius: 1rem;
+}
+
+#relative-path-image {
+    border: 0.2rem solid rgb(255, 0, 0);
+    border-radius: 1rem;
+}
+
+#absolute-path-image {
+    border: 0.2rem solid rgb(0, 255, 0);
+    border-radius: 1rem;
+}
+
+iframe, video {
+    border: 0.2rem solid rgb(0, 0, 255);
+    border-radius: 1rem;
+}
+
+#quote blockquote {
+    border: 0.2rem solid #123;
+    box-shadow: 0.5rem 0.5rem 0.5rem grey;
+}
+
+iframe, video {
+    border: 0.2rem solid #123;
+}
+
+#relative-path-image figcaption {
+    color: rgb(255, 0, 0);
+}
+
+#absolute-path-image figcaption {
+    color: rgb(0, 255, 0);
+}
+
+h1, h2 {
+    color: rgb(230, 8, 242);
+}
+
+header, footer {
+    background: linear-gradient(rgb(51, 5, 217), rgb(201, 192, 192));
+}
+
+.main-section {
+    background-color: hsla(294, 32%, 54%, 0.3);
+}
+
+#absolute-path-image {
+    background-color: hsla(120, 100%, 50%, 0.3);
+}
+
+#relative-path-image {
+    background-color: hsla(120, 100%, 50%, 0.3);
+}
